@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.myChartdiv{
+
+  margin:auto;
+
+}
+
+
+.MuiInputLabel-root-5{
+  font-size: 22px !important;
+  font-family: fantasy;
+
+}
+
+.ccc {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  text-align: right !important;
+}
+
+.bg-primary {
+  font-size: 20px;
+}
+
+.text-white {
+   font-size: 25px !important;
+
+}
+
+#hadibe {
+  padding-top: 20px;
+}
